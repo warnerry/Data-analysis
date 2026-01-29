@@ -9,11 +9,3 @@
 - [ЛР4 — Кластеризация: KMeans / Agglomerative / DBSCAN (ecommerce_fraud.csv)](./lab4)
 - [ЛР5 — Классификация анемии (scikit-learn)](./lab5)
 
-## Как запустить
-```bash
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-source .venv/bin/activate
-
-pip install -r requirements.txt
-jupyter notebook
